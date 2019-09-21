@@ -1,5 +1,6 @@
 # Count Numbers
 This script is pretty inefficient as of right now, so don't be surprised if you find it running for a while on larger numbers. I've went through the courtesy of running some large numbers. Here they are:
+
 | Number   |  Time (in seconds) |
 |----------|:------------------:|
 | 10,000,000    |         65,288,902.8 (755.66 days)      |
