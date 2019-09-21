@@ -143,5 +143,6 @@ def time_to_count_to_num(num):
             total_time += t
     return total_time
 
-# NOTE: current max is 999,999,999,999,999
-print(round(time_to_count_to_num(10000000), 2))
+# RUN HERE
+NUMBER_TO_COUNT_TO = 1  # NOTE: current max is 999,999,999,999,999
+print(round(time_to_count_to_num(NUMBER_TO_COUNT_TO), 2))
